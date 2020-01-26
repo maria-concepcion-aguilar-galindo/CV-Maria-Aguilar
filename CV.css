@@ -1,0 +1,30 @@
+body {
+	background-color: #A9BCF5;
+	margin: 0;
+	background-size: 200vw 200vh;
+	font-family: sans-serif;
+}
+
+h1{
+  background-color: #ffff;
+  background-size: 200vw 200vh;
+}
+
+
+head{
+  width: 100%;
+  background: #ffff;
+}
+
+#principal {
+  padding: 10px;
+  margin: 0 auto;
+}
+legend  {
+
+  margin:auto ;
+  border: solid 1px #0000e5;
+  padding: 5px;
+  font-weight: bold;
+  border-radius: 20px;
+}
